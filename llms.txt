@@ -6,6 +6,7 @@
 - Phone: (561) 272-1886
 - Email: ricosautorepair@gmail.com
 - Address: 1 Linton Blvd #23, Delray Beach, FL 33444
+- Website: https://ricos-auto-repair-production.up.railway.app/
 
 ## Services
   - Diagnostics
@@ -15,5 +16,10 @@
   - Transmission Service
   - Pre-Purchase Inspections
 
-## Links
+## Service Area
+- Primary: Delray Beach, FL
+- Also serving: greater Delray Beach metropolitan area
+
+## Pages
 - [Homepage](https://ricos-auto-repair-production.up.railway.app/)
+- [FAQ](https://ricos-auto-repair-production.up.railway.app/faq.html)
