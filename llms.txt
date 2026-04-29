@@ -1,6 +1,6 @@
-# Auto Repair in Delray Beach, FL
+# Rico's Auto Repair
 
-> Complete auto repair in Delray Beach, FL. All foreign & domestic vehicles. Honest service, fair prices. Call (561) 272-1886 to schedule.
+> Trusted auto repair in Delray Beach, FL. Quality service, fair prices, and honest mechanics for every job.
 
 ## Contact
 - Phone: (561) 272-1886
@@ -8,13 +8,16 @@
 - Address: 1 Linton Blvd #23, Delray Beach, FL 33444
 - Website: https://ricos-auto-repair-production.up.railway.app/
 
+## Hours
+Mo-Fr 08:00-17:00, Sa 08:00-14:00
+
 ## Services
-  - Diagnostics
-  - Brakes &amp; Suspension
-  - Maintenance
-  - Engine &amp; Cooling
-  - Transmission Service
-  - Pre-Purchase Inspections
+  - General Repair
+  - Brake Service
+  - Engine Work
+  - Electrical
+  - Oil Changes
+  - Inspections
 
 ## Service Area
 - Primary: Delray Beach, FL
